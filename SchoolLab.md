@@ -12,8 +12,22 @@
 
 ## Feedback
 
-
 # Ablauf
+
+| Uhrzeit | Was                                  |                                     |      |
+| ------- | ------------------------------------ | ----------------------------------- | ---- |
+| 9.00    | Begrüßung und Vorstellung            |                                     |      |
+| 9.10    | Gamedesign - What is it? (Kahoot)    |                                     |      |
+| 9.30    | Teamwork: Erfinde dein eigenes Game! | Stift & Papier                      |      |
+| 9.50    | Kurze Vorstellung der Games          |                                     |      |
+| 10.00   | Einführung Scratch                   | Anmeldung, Oberfläche..             |      |
+| 10.30   | Abstimmung: Welches Game?            | Plattformer, RPG, FlappyBirds, Pong |      |
+| 10.35   | Pause                                |                                     |      |
+| 10.45   | Scratch Workshop Game                |                                     |      |
+| 11.45   | Abschluss und GamesPreis             |                                     |      |
+| 12.00   | Ende                                 |                                     |      |
+
+
 
 ## Einführung
 
